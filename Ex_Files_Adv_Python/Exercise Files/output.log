@@ -1,0 +1,9 @@
+User:04/24/2020 09:27:42 PM: INFO: main line:19 This is an info-level log message
+User:04/24/2020 09:27:42 PM: WARNING: main line:20 This is a warning-level message
+User:04/24/2020 09:27:42 PM: DEBUG: anotherFunction line:9 this is debug level message
+04/24/2020 09:34:22 PM: INFO: main Line:22 User:joem@example.com This is an info-level log message
+04/24/2020 09:34:22 PM: WARNING: main Line:23 User:joem@example.com This is a warning-level message
+04/24/2020 09:34:22 PM: DEBUG: anotherFunction Line:9 User:joem@example.com This is a debug-level log message
+04/24/2020 09:35:41 PM: INFO: main Line:22 User:joem@example.com This is an info-level log message
+04/24/2020 09:35:41 PM: WARNING: main Line:23 User:joem@example.com This is a warning-level message
+04/24/2020 09:35:41 PM: DEBUG: anotherFunction Line:9 User:joem@example.com This is a debug-level log message
